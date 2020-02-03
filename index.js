@@ -9,7 +9,7 @@ function mondayWork(s='go to the office'){
 }
 
 function wrapAdjective(){
-  return function(){
+  return function(s="special"){
     
   }
 }
