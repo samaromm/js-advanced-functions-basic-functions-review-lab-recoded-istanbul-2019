@@ -10,6 +10,6 @@ function mondayWork(s='go to the office'){
 
 function wrapAdjective(visual='*'){
   return function(s="special"){
-    return "You are "+s
+    return "You are "+visual+s+visual
   }
 }
