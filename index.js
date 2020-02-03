@@ -13,3 +13,7 @@ function wrapAdjective(visual='*'){
     return "You are "+visual+s+visual+'!'
   }
 }
+
+calculator{
+  
+}
