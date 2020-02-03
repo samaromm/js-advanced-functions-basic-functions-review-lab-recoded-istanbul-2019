@@ -15,5 +15,5 @@ function wrapAdjective(visual='*'){
 }
 
 calculator{
-  add:function(){return 1+3}
+  add:function(n1, n2){return n1+n2}
 }
