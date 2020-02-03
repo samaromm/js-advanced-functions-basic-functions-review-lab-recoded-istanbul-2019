@@ -8,7 +8,7 @@ function mondayWork(s='go to the office'){
   return "This Monday, I will "+s+"."
 }
 
-function wrapAdjective(){
+function wrapAdjective(visual='*'){
   return function(s="special"){
     return "You are "+s
   }
