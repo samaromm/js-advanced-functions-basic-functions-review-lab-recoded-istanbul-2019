@@ -15,5 +15,5 @@ function wrapAdjective(visual='*'){
 }
 
 calculator{
-  
+  function add(){}
 }
