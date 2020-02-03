@@ -5,5 +5,5 @@ function saturdayFun(s='roller-skate'){
 }
 
 function mondayWork(s='go to the office'){
-  return "This Monday, I Will "+s+"."
+  return "This Monday, I will "+s+"."
 }
