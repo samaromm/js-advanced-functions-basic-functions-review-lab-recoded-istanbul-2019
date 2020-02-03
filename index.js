@@ -8,4 +8,8 @@ function mondayWork(s='go to the office'){
   return "This Monday, I will "+s+"."
 }
 
-function 
+function wrapAdjective(){
+  return function(){
+    
+  }
+}
